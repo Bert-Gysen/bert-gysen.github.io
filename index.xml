@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>GIP Bert Gysen</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on GIP Bert Gysen</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 22 Oct 2015 16:38:15 +0200</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>GIP taak 07</title>
+      <link>http://localhost:1313/Taak/HugoV1/</link>
+      <pubDate>Thu, 22 Oct 2015 16:38:15 +0200</pubDate>
+      
+      <guid>http://localhost:1313/Taak/HugoV1/</guid>
+      <description>
+
+&lt;h1 id=&#34;links:0615d6a25bebe7b12f9e076bad2e2a46&#34;&gt;Links&lt;/h1&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://gitlab.com/bert-gysen/Hugo.git&#34;&gt;Gitlab&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://gitlab.com/bert-gysen/Hugo.git&#34;&gt;Github&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://gitlab.com/bert-gysen/Hugo.git&#34;&gt;Github pages&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1 id=&#34;vergelijking-hugo-en-wordpress:0615d6a25bebe7b12f9e076bad2e2a46&#34;&gt;Vergelijking Hugo en Wordpress&lt;/h1&gt;
+
+&lt;p&gt;Hugo:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Maakt gebruikt van Markdown-bestandjes&lt;/li&gt;
+&lt;li&gt;Is geschreven in GO&lt;/li&gt;
+&lt;li&gt;Posts kunnen toevoegen offline&lt;/li&gt;
+&lt;li&gt;Maakt gebruik van thema&amp;rsquo;s&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Wordpress:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Is geschreven in PHP&lt;/li&gt;
+&lt;li&gt;Geen Markdown-bestandjes&lt;/li&gt;
+&lt;li&gt;Geen posts toevoegen online&lt;/li&gt;
+&lt;li&gt;Geen gebruik van thema&amp;rsquo;s&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Ik vind Hugo een redelijke tool om website&amp;rsquo;s te maken. Het was op het eerste zicht wat veel om in één keer op te nemen, maar uiteindelijk valt het allemaal wel mee. De thema&amp;rsquo;s zijn ook erg handig en geven je de middelen om direct van start te gaan.&lt;/p&gt;
+
+&lt;h1 id=&#34;directory-structuur:0615d6a25bebe7b12f9e076bad2e2a46&#34;&gt;Directory structuur&lt;/h1&gt;
+
+&lt;h3 id=&#34;content-map:0615d6a25bebe7b12f9e076bad2e2a46&#34;&gt;Content map&lt;/h3&gt;
+
+&lt;p&gt;In mijn content map zitten nog twee maps genaamd &amp;ldquo;taak&amp;rdquo; en &amp;ldquo;stage&amp;rdquo; daar ga ik mijn taken en stageverslagen opslaan.&lt;/p&gt;
+
+&lt;h3 id=&#34;layouts-map:0615d6a25bebe7b12f9e076bad2e2a46&#34;&gt;Layouts map&lt;/h3&gt;
+
+&lt;p&gt;Hier zitten de bestanden die ik gekopiëerd heb uit het &amp;lsquo;Hyde&amp;rsquo; thema. Ik heb wat aan de HTML files veranderd om bijvoorbeeld mijn posts op mijn homepage weg te doen.&lt;/p&gt;
+
+&lt;h3 id=&#34;static-map:0615d6a25bebe7b12f9e076bad2e2a46&#34;&gt;Static map&lt;/h3&gt;
+
+&lt;p&gt;In mijn static map zitten mijn css-bestanden. Ik heb hier de achtergronden voor mijn sidebar, index en posts aangepast. Ik heb ook een nieuw favicon dat een letter &amp;lsquo;B&amp;rsquo; is.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Bedrijfseconomische analyse van het stagebedrijf</title>
+      <link>http://localhost:1313/Stage/BedrStage/</link>
+      <pubDate>Thu, 15 Oct 2015 00:17:29 +0200</pubDate>
+      
+      <guid>http://localhost:1313/Stage/BedrStage/</guid>
+      <description>
+
+&lt;h3 id=&#34;wat-te-doen:58deddc6012bf601af6ac45bcf5b565d&#34;&gt;Wat te doen&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Stage analyseren&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>IT-tapa instruction  video: The English way</title>
+      <link>http://localhost:1313/Taak/InstructionVidEnglish/</link>
+      <pubDate>Thu, 15 Oct 2015 00:14:46 +0200</pubDate>
+      
+      <guid>http://localhost:1313/Taak/InstructionVidEnglish/</guid>
+      <description>
+
+&lt;h3 id=&#34;wat-te-doen:5d7ee15a3e86b02505ae15f9d053a490&#34;&gt;Wat te doen&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Instructiefilmpje maken voor IT-tapa&lt;/li&gt;
+&lt;li&gt;Dub in english&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>IT-autobiography</title>
+      <link>http://localhost:1313/Taak/IT-autobiography/</link>
+      <pubDate>Thu, 15 Oct 2015 00:12:25 +0200</pubDate>
+      
+      <guid>http://localhost:1313/Taak/IT-autobiography/</guid>
+      <description>
+
+&lt;h3 id=&#34;wat-te-doen:b8ba8b1fcf0c24f1bbf715390a897859&#34;&gt;Wat te doen&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Write about what made you interested in computers&lt;/li&gt;
+&lt;li&gt;Use tenses correctly&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>La Foire aux Questions du Centre d&#39;Assistence</title>
+      <link>http://localhost:1313/Taak/FransFAQ/</link>
+      <pubDate>Thu, 15 Oct 2015 00:09:43 +0200</pubDate>
+      
+      <guid>http://localhost:1313/Taak/FransFAQ/</guid>
+      <description>
+
+&lt;h3 id=&#34;wat-te-doen:c89b450aa3fe2985c639e84de68b30e9&#34;&gt;Wat te doen&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;per twee werken&lt;/li&gt;
+&lt;li&gt;8 vragen verzinnen&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>IT Tapa (sessies)</title>
+      <link>http://localhost:1313/Taak/IT-Tapa/</link>
+      <pubDate>Thu, 15 Oct 2015 00:03:02 +0200</pubDate>
+      
+      <guid>http://localhost:1313/Taak/IT-Tapa/</guid>
+      <description>
+
+&lt;h3 id=&#34;wat-te-doen:49a870616e187054da8792404d941764&#34;&gt;Wat te doen:&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Draaiboek&lt;/li&gt;
+&lt;li&gt;Voorbeeld&lt;/li&gt;
+&lt;li&gt;Testaccounts&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
