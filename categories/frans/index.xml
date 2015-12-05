@@ -10,19 +10,34 @@
     <atom:link href="http://localhost:1313/categories/frans/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>La Foire aux Questions du Centre d&#39;Assistence</title>
+      <title>Pour la FAQ au sujet de Trello, cliquez ICI.</title>
       <link>http://localhost:1313/Taak/FransFAQ/</link>
       <pubDate>Thu, 15 Oct 2015 00:09:43 +0200</pubDate>
       
       <guid>http://localhost:1313/Taak/FransFAQ/</guid>
       <description>
 
-&lt;h3 id=&#34;wat-te-doen:c89b450aa3fe2985c639e84de68b30e9&#34;&gt;Wat te doen&lt;/h3&gt;
+&lt;h3 id=&#34;foire-aux-questions:c89b450aa3fe2985c639e84de68b30e9&#34;&gt;Foire Aux Questions&lt;/h3&gt;
 
-&lt;ul&gt;
-&lt;li&gt;per twee werken&lt;/li&gt;
-&lt;li&gt;8 vragen verzinnen&lt;/li&gt;
-&lt;/ul&gt;
+&lt;p&gt;Vous avez des questions sur Trello? Voici les réponses!&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;On peut enlever un groupe?&lt;/strong&gt; &lt;br&gt;
+Pas encore.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;On peut changer une liste de contrôle dans une carte?&lt;/strong&gt;  &lt;br&gt;
+Oui, faites une liste de contrôle et cliquez sur “Convert to card”.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Est-ce qu’il y a une limite de téléchargement?&lt;/strong&gt;  &lt;br&gt;
+Oui, 10 mégaoctet par fichiers.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;On peut enlever un fichier?&lt;/strong&gt;  &lt;br&gt;
+Non, vous pouvez seulement archiver les items.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Comment est-ce que je cherche quelque chose?&lt;/strong&gt;  &lt;br&gt;
+Utilisez le zone de texte en haut de la page.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Est-ce qu’il y a une version payante?&lt;/strong&gt;  &lt;br&gt;
+Oui, Trello Business Class est une version de Trello avec plus d’options.&lt;/p&gt;
 </description>
     </item>
     

@@ -64,18 +64,25 @@
     </item>
     
     <item>
-      <title>IT-tapa instruction  video: The English way</title>
+      <title>IT-tapa instructie video</title>
       <link>http://localhost:1313/Taak/InstructionVidEnglish/</link>
       <pubDate>Thu, 15 Oct 2015 00:14:46 +0200</pubDate>
       
       <guid>http://localhost:1313/Taak/InstructionVidEnglish/</guid>
       <description>
 
-&lt;h3 id=&#34;wat-te-doen:5d7ee15a3e86b02505ae15f9d053a490&#34;&gt;Wat te doen&lt;/h3&gt;
+&lt;h3 id=&#34;trello-tutorials:5d7ee15a3e86b02505ae15f9d053a490&#34;&gt;Trello Tutorials&lt;/h3&gt;
 
 &lt;ul&gt;
-&lt;li&gt;Instructiefilmpje maken voor IT-tapa&lt;/li&gt;
-&lt;li&gt;Dub in english&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Nederlands filmpje: &lt;br&gt;
+&lt;video width=&#34;320&#34; height=&#34;240&#34; controls&gt;
+&lt;source src=&#34;Trello Instructie (nederlands).mp4&#34; type=&#34;video/mp4&#34;&gt;
+&lt;/video&gt;&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Engels filmpje: &lt;br&gt;
+&lt;video width=&#34;320&#34; height=&#34;240&#34; controls&gt;
+&lt;source src=&#34;Trello instructie (engels).mp4&#34; type=&#34;video/mp4&#34;&gt;
+&lt;/video&gt;&lt;/p&gt;&lt;/li&gt;
 &lt;/ul&gt;
 </description>
     </item>
@@ -88,29 +95,51 @@
       <guid>http://localhost:1313/Taak/IT-autobiography/</guid>
       <description>
 
-&lt;h3 id=&#34;wat-te-doen:b8ba8b1fcf0c24f1bbf715390a897859&#34;&gt;Wat te doen&lt;/h3&gt;
+&lt;h3 id=&#34;how-it-became-a-part-of-my-life:b8ba8b1fcf0c24f1bbf715390a897859&#34;&gt;How IT became a part of my life&lt;/h3&gt;
 
-&lt;ul&gt;
-&lt;li&gt;Write about what made you interested in computers&lt;/li&gt;
-&lt;li&gt;Use tenses correctly&lt;/li&gt;
-&lt;/ul&gt;
+&lt;p&gt;My name is Bert Gysen. I’m a 17-year old programming champion who does IT management at the Immaculata Institute. I have loved programming ever since I first got in touch with it and I’m going to tell you how IT has become a part of my everyday life.&lt;/p&gt;
+
+&lt;p&gt;My first experience with IT occurred when I was 6 years old. I was playing at a friend’s house when he decided to play a game on his computer. I was fascinated by all that he could do. He was jumping and fighting enemies. I had never seen something like that. In those days I just watched television all the time. My aunt had a computer as well so I loved to visit her. I didn’t even have a computer back then, so a few months later I got one too, back then I always went to funnygames.com or spele.nl to play games. In my fourth year of high school I hadn’t planned to do IT management but when we started basic programming I immediately knew I wanted to do this.&lt;/p&gt;
+
+&lt;p&gt;Nowadays my computer is part of my everyday life.  When I come home the first thing I do is turn on my computer and check Facebook. I’m on my computer all the time, easily 5 hours a day. Sometimes when I’m bored I start programming something new. I love the creative aspect of programming and what you can do with it. I’m not amazing at making my programs look good but they work and that’s what counts. I’ve already made a Blackjack game, a drinking game and Wout, Joeri and me also made a game last year where you had to click all the buttons in time to win . I don’t see myself as an expert, rather someone who loves programming and is eager to learn more.&lt;/p&gt;
+
+&lt;p&gt;If I manage to graduate college the next few years and get a job in IT I would be very happy. Networking is not really my thing because I can’t be as creative with it as I can be with programming, so I prefer a job where I can sit down and program all day. Some people think that’s is boring but I don’t see it that way. I get great satisfaction when I try to make something work and it finally does.&lt;/p&gt;
+
+&lt;p&gt;I can’t even imagine what I would do if I didn’t have my computer. I use it for school, talking to friends, looking things up, playing videogames and much more. I can say IT has become an important part of my life because I just can’t live without it. It’s an ever-growing, fascinating world that I want to keep exploring!&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;Bgysen.png&#34;&gt;&lt;/img&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
-      <title>La Foire aux Questions du Centre d&#39;Assistence</title>
+      <title>Pour la FAQ au sujet de Trello, cliquez ICI.</title>
       <link>http://localhost:1313/Taak/FransFAQ/</link>
       <pubDate>Thu, 15 Oct 2015 00:09:43 +0200</pubDate>
       
       <guid>http://localhost:1313/Taak/FransFAQ/</guid>
       <description>
 
-&lt;h3 id=&#34;wat-te-doen:c89b450aa3fe2985c639e84de68b30e9&#34;&gt;Wat te doen&lt;/h3&gt;
+&lt;h3 id=&#34;foire-aux-questions:c89b450aa3fe2985c639e84de68b30e9&#34;&gt;Foire Aux Questions&lt;/h3&gt;
 
-&lt;ul&gt;
-&lt;li&gt;per twee werken&lt;/li&gt;
-&lt;li&gt;8 vragen verzinnen&lt;/li&gt;
-&lt;/ul&gt;
+&lt;p&gt;Vous avez des questions sur Trello? Voici les réponses!&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;On peut enlever un groupe?&lt;/strong&gt; &lt;br&gt;
+Pas encore.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;On peut changer une liste de contrôle dans une carte?&lt;/strong&gt;  &lt;br&gt;
+Oui, faites une liste de contrôle et cliquez sur “Convert to card”.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Est-ce qu’il y a une limite de téléchargement?&lt;/strong&gt;  &lt;br&gt;
+Oui, 10 mégaoctet par fichiers.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;On peut enlever un fichier?&lt;/strong&gt;  &lt;br&gt;
+Non, vous pouvez seulement archiver les items.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Comment est-ce que je cherche quelque chose?&lt;/strong&gt;  &lt;br&gt;
+Utilisez le zone de texte en haut de la page.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Est-ce qu’il y a une version payante?&lt;/strong&gt;  &lt;br&gt;
+Oui, Trello Business Class est une version de Trello avec plus d’options.&lt;/p&gt;
 </description>
     </item>
     
@@ -122,13 +151,13 @@
       <guid>http://localhost:1313/Taak/IT-Tapa/</guid>
       <description>
 
-&lt;h3 id=&#34;wat-te-doen:49a870616e187054da8792404d941764&#34;&gt;Wat te doen:&lt;/h3&gt;
+&lt;h3 id=&#34;it-tapa:49a870616e187054da8792404d941764&#34;&gt;IT-tapa&lt;/h3&gt;
 
-&lt;ul&gt;
-&lt;li&gt;Draaiboek&lt;/li&gt;
-&lt;li&gt;Voorbeeld&lt;/li&gt;
-&lt;li&gt;Testaccounts&lt;/li&gt;
-&lt;/ul&gt;
+&lt;p&gt;Ik heb mijn IT-tapa presentatie samen met Joeri Sips gedaan. Wij hebben samen gekozen om &lt;a href=&#34;https://trello.com/&#34;&gt;Trello&lt;/a&gt; als ons onderwerp te nemen. Trello is een online tool om takenlijsten mee te maken. Wij zijn vorig jaar voor het eerst in contact gekomen met Trello en vonden het een handige tool om voor je zelf de takenlijst te maken die het best bij jou past.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://joeri-sips.github.io/&#34;&gt;Joeri&amp;rsquo;s Site&lt;/a&gt; &lt;br&gt;
+&lt;a href=&#34;https://www.facebook.com/IT-tapa-588405757863108/?fref=ts&#34;&gt;IT-tapa facebookpagina&lt;/a&gt; &lt;br&gt;
+&lt;img src=&#34;ITtapa1.jpg&#34;&gt;&lt;/img&gt;&lt;img src=&#34;ITtapa2.jpg&#34;&gt;&lt;/img&gt;&lt;/p&gt;
 </description>
     </item>
     
