@@ -2,24 +2,38 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Frans on GIP Bert Gysen</title>
-    <link>http://localhost:1313/categories/frans/</link>
+    <link>/categories/frans/</link>
     <description>Recent content in Frans on GIP Bert Gysen</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 15 Oct 2015 00:09:43 +0200</lastBuildDate>
-    <atom:link href="http://localhost:1313/categories/frans/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 10 May 2016 00:09:43 +0200</lastBuildDate>
+    <atom:link href="/categories/frans/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Voici un reportage photo concernant le stage.</title>
+      <link>/Taak/ReportageFrans/</link>
+      <pubDate>Tue, 10 May 2016 00:09:43 +0200</pubDate>
+      
+      <guid>/Taak/ReportageFrans/</guid>
+      <description>
+
+&lt;h3 id=&#34;reportage-de-mon-stage-à-dca:17d384b3464092965d9aaa807f1ab5bb&#34;&gt;Reportage de mon stage à DCA&lt;/h3&gt;
+
+&lt;iframe id=&#34;iframe_container&#34; frameborder=&#34;0&#34; webkitallowfullscreen=&#34;&#34; mozallowfullscreen=&#34;&#34; allowfullscreen=&#34;&#34; width=&#34;550&#34; height=&#34;400&#34; src=&#34;https://prezi.com/embed/dq6gabdjnif_/?bgcolor=ffffff&amp;amp;lock_to_path=0&amp;amp;autoplay=0&amp;amp;autohide_ctrls=0&amp;amp;landing_data=bHVZZmNaNDBIWnNjdEVENDRhZDFNZGNIUE43MHdLNWpsdFJLb2ZHanI0eWdhZUsxbmlUS09nSVBWcDFqUWpaV3BnPT0&amp;amp;landing_sign=UNz4uzPcSZvepK1tdq5NzY_cT1gHc6idKpfKBBd-BsU&#34;&gt;&lt;/iframe&gt;
+</description>
+    </item>
     
     <item>
       <title>Pour la FAQ au sujet de Trello, cliquez ICI.</title>
-      <link>http://localhost:1313/Taak/FransFAQ/</link>
+      <link>/Taak/FransFAQ/</link>
       <pubDate>Thu, 15 Oct 2015 00:09:43 +0200</pubDate>
       
-      <guid>http://localhost:1313/Taak/FransFAQ/</guid>
+      <guid>/Taak/FransFAQ/</guid>
       <description>
 
 &lt;h3 id=&#34;foire-aux-questions:c89b450aa3fe2985c639e84de68b30e9&#34;&gt;Foire Aux Questions&lt;/h3&gt;
 
-&lt;p&gt;Vous avez des questions sur Trello? Voici les réponses!&lt;/p&gt;
+&lt;p&gt;Vous avez des questions sur &lt;a href=&#34;https://trello.com/&#34;&gt;Trello&lt;/a&gt;? Voici les réponses!&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;On peut enlever un groupe?&lt;/strong&gt; &lt;br&gt;
 Pas encore.&lt;/p&gt;

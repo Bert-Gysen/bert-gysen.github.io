@@ -2,43 +2,61 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Engels on GIP Bert Gysen</title>
-    <link>http://localhost:1313/categories/engels/</link>
+    <link>/categories/engels/</link>
     <description>Recent content in Engels on GIP Bert Gysen</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 15 Oct 2015 00:14:46 +0200</lastBuildDate>
-    <atom:link href="http://localhost:1313/categories/engels/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 10 May 2016 00:12:25 +0200</lastBuildDate>
+    <atom:link href="/categories/engels/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Review of software Kaseya</title>
+      <link>/Taak/IT-review/</link>
+      <pubDate>Tue, 10 May 2016 00:12:25 +0200</pubDate>
+      
+      <guid>/Taak/IT-review/</guid>
+      <description>
+
+&lt;h3 id=&#34;kaseya-review:b2c60582955df1dde12efefda9c3a93d&#34;&gt;Kaseya review&lt;/h3&gt;
+
+&lt;p&gt;Kaseya is a networking tool used by system administrators to make their life a bit easier. The tool is created by the company Kaseya and contains several functions like remote control, monitoring, dashboards, patch management and so on. The company that uses the tool pays a monthly fee based on the number of clients and servers in that company. My first encounter with Kaseya happened at my training company where my mentor used it to monitor everyone working there. He could also help people but that didn’t happen very often.&lt;/p&gt;
+
+&lt;p&gt;The main feature of Kaseya which can be viewed both as a positive and a negative thing is that it runs in a browser. That means that you need to have internet connection to access it. An advantage of having the tool running in a browser is that you can access it from any place. If something goes wrong in the network and you are at home you can easily connect to Kaseya and fix it without having to go to the company. The downside of needing internet connection for Kaseya is that when your internet connection is down you are not able to access the tool anymore. I personally think that running the tool in a browser is not a good idea. I think that while being able to access the tool wherever you are is a really good thing, Kaseya also needs an option to run without the need of a browser in case there are problems with the connection.&lt;/p&gt;
+
+&lt;p&gt;To include a client in the tool you need to install the Kaseya agent on that client. Once a client has the agent installed the system administrator can shut down processes, take control of the client, install things and much more. A drawback of the agent is that you need to install it on every single client in your company, which can take a long time. Also, if the user has the rights he can uninstall the agent, therefore the client will be removed from the tool. As long as you don’t give the rights to uninstall there won’t be any problems with the agent.&lt;/p&gt;
+
+&lt;p&gt;One thing that the tool succeeds in is having regular updates. Once every few weeks the tool gets an update that takes care of bugs and other problems. It also adds new features. The updates are free for everyone who pays monthly for the tool.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;../../Kaseya1.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>IT-tapa instructie video</title>
-      <link>http://localhost:1313/Taak/InstructionVidEnglish/</link>
+      <link>/Taak/InstructionVidEnglish/</link>
       <pubDate>Thu, 15 Oct 2015 00:14:46 +0200</pubDate>
       
-      <guid>http://localhost:1313/Taak/InstructionVidEnglish/</guid>
+      <guid>/Taak/InstructionVidEnglish/</guid>
       <description>
 
 &lt;h3 id=&#34;trello-tutorials:5d7ee15a3e86b02505ae15f9d053a490&#34;&gt;Trello Tutorials&lt;/h3&gt;
 
 &lt;ul&gt;
 &lt;li&gt;&lt;p&gt;Nederlands filmpje: &lt;br&gt;
-&lt;video width=&#34;320&#34; height=&#34;240&#34; controls&gt;
-&lt;source src=&#34;Trello Instructie (nederlands).mp4&#34; type=&#34;video/mp4&#34;&gt;
-&lt;/video&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;iframe width=&#34;75%&#34; height=&#34;330&#34; src=&#34;http://www.youtube.com/embed/vtrBZNaJU_c&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;&lt;/p&gt;&lt;/li&gt;
 
 &lt;li&gt;&lt;p&gt;Engels filmpje: &lt;br&gt;
-&lt;video width=&#34;320&#34; height=&#34;240&#34; controls&gt;
-&lt;source src=&#34;Trello instructie (engels).mp4&#34; type=&#34;video/mp4&#34;&gt;
-&lt;/video&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;iframe width=&#34;75%&#34; height=&#34;330&#34; src=&#34;http://www.youtube.com/embed/cej_UYiT3Mk&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/p&gt;&lt;/li&gt;
 &lt;/ul&gt;
 </description>
     </item>
     
     <item>
       <title>IT-autobiography</title>
-      <link>http://localhost:1313/Taak/IT-autobiography/</link>
+      <link>/Taak/IT-autobiography/</link>
       <pubDate>Thu, 15 Oct 2015 00:12:25 +0200</pubDate>
       
-      <guid>http://localhost:1313/Taak/IT-autobiography/</guid>
+      <guid>/Taak/IT-autobiography/</guid>
       <description>
 
 &lt;h3 id=&#34;how-it-became-a-part-of-my-life:b8ba8b1fcf0c24f1bbf715390a897859&#34;&gt;How IT became a part of my life&lt;/h3&gt;
@@ -53,7 +71,7 @@
 
 &lt;p&gt;I can’t even imagine what I would do if I didn’t have my computer. I use it for school, talking to friends, looking things up, playing videogames and much more. I can say IT has become an important part of my life because I just can’t live without it. It’s an ever-growing, fascinating world that I want to keep exploring!&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&#34;Bgysen.png&#34;&gt;&lt;/img&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;../../Bgysen.png&#34; alt=&#34;&#34;&gt;&lt;/img&gt;&lt;/p&gt;
 </description>
     </item>
     

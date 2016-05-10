@@ -2,27 +2,85 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Taaks on GIP Bert Gysen</title>
-    <link>http://localhost:1313/taak/</link>
+    <link>/taak/</link>
     <description>Recent content in Taaks on GIP Bert Gysen</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 22 Oct 2015 16:38:15 +0200</lastBuildDate>
-    <atom:link href="http://localhost:1313/taak/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 10 May 2016 00:12:25 +0200</lastBuildDate>
+    <atom:link href="/taak/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Review of software Kaseya</title>
+      <link>/Taak/IT-review/</link>
+      <pubDate>Tue, 10 May 2016 00:12:25 +0200</pubDate>
+      
+      <guid>/Taak/IT-review/</guid>
+      <description>
+
+&lt;h3 id=&#34;kaseya-review:b2c60582955df1dde12efefda9c3a93d&#34;&gt;Kaseya review&lt;/h3&gt;
+
+&lt;p&gt;Kaseya is a networking tool used by system administrators to make their life a bit easier. The tool is created by the company Kaseya and contains several functions like remote control, monitoring, dashboards, patch management and so on. The company that uses the tool pays a monthly fee based on the number of clients and servers in that company. My first encounter with Kaseya happened at my training company where my mentor used it to monitor everyone working there. He could also help people but that didn’t happen very often.&lt;/p&gt;
+
+&lt;p&gt;The main feature of Kaseya which can be viewed both as a positive and a negative thing is that it runs in a browser. That means that you need to have internet connection to access it. An advantage of having the tool running in a browser is that you can access it from any place. If something goes wrong in the network and you are at home you can easily connect to Kaseya and fix it without having to go to the company. The downside of needing internet connection for Kaseya is that when your internet connection is down you are not able to access the tool anymore. I personally think that running the tool in a browser is not a good idea. I think that while being able to access the tool wherever you are is a really good thing, Kaseya also needs an option to run without the need of a browser in case there are problems with the connection.&lt;/p&gt;
+
+&lt;p&gt;To include a client in the tool you need to install the Kaseya agent on that client. Once a client has the agent installed the system administrator can shut down processes, take control of the client, install things and much more. A drawback of the agent is that you need to install it on every single client in your company, which can take a long time. Also, if the user has the rights he can uninstall the agent, therefore the client will be removed from the tool. As long as you don’t give the rights to uninstall there won’t be any problems with the agent.&lt;/p&gt;
+
+&lt;p&gt;One thing that the tool succeeds in is having regular updates. Once every few weeks the tool gets an update that takes care of bugs and other problems. It also adds new features. The updates are free for everyone who pays monthly for the tool.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;../../Kaseya1.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Voici un reportage photo concernant le stage.</title>
+      <link>/Taak/ReportageFrans/</link>
+      <pubDate>Tue, 10 May 2016 00:09:43 +0200</pubDate>
+      
+      <guid>/Taak/ReportageFrans/</guid>
+      <description>
+
+&lt;h3 id=&#34;reportage-de-mon-stage-à-dca:17d384b3464092965d9aaa807f1ab5bb&#34;&gt;Reportage de mon stage à DCA&lt;/h3&gt;
+
+&lt;iframe id=&#34;iframe_container&#34; frameborder=&#34;0&#34; webkitallowfullscreen=&#34;&#34; mozallowfullscreen=&#34;&#34; allowfullscreen=&#34;&#34; width=&#34;550&#34; height=&#34;400&#34; src=&#34;https://prezi.com/embed/dq6gabdjnif_/?bgcolor=ffffff&amp;amp;lock_to_path=0&amp;amp;autoplay=0&amp;amp;autohide_ctrls=0&amp;amp;landing_data=bHVZZmNaNDBIWnNjdEVENDRhZDFNZGNIUE43MHdLNWpsdFJLb2ZHanI0eWdhZUsxbmlUS09nSVBWcDFqUWpaV3BnPT0&amp;amp;landing_sign=UNz4uzPcSZvepK1tdq5NzY_cT1gHc6idKpfKBBd-BsU&#34;&gt;&lt;/iframe&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Case Study</title>
+      <link>/Taak/CaseStudy/</link>
+      <pubDate>Sun, 10 Apr 2016 00:12:25 +0200</pubDate>
+      
+      <guid>/Taak/CaseStudy/</guid>
+      <description>
+
+&lt;h3 id=&#34;kaseya:012002a4ccf4c08711ada36cec8a571e&#34;&gt;Kaseya&lt;/h3&gt;
+
+&lt;p&gt;Kaseya is een netwerktool gebruikt door netwerkbeheerders om hun leven iets makkelijker en eenvoudiger te maken. De tool bevat allerlei functies zoals remote control, monitoring, dashboards, patch management, enzovoort.&lt;/p&gt;
+
+&lt;p&gt;Ikzelf vond kaseya in het begin best moeilijk te gebruiken. Ik werd overweldigd door alle opties die je had, maar als je de basis hebt is het een zeer nuttige tool!&lt;/p&gt;
+
+&lt;p&gt;Ik heb veel moeite gehad in het begin maar uiteindelijk was ik er wel mee weg. De tool heeft veel potentieel maar is nog niet echt af, er is een optie om alle apparaten in het netwerk te tonen maar ze worden niet allemaal gevonden. De tool ziet firewalls bijvoorbeeld aan als gateways dus die worden niet getoond.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;../../Kaseya1.png&#34; alt=&#34;&#34;&gt;&lt;/img&gt;
+&lt;img src=&#34;../../Kaseya2.png&#34; alt=&#34;&#34;&gt;&lt;/img&gt;
+&lt;img src=&#34;../../Kaseya3.png&#34; alt=&#34;&#34;&gt;&lt;/img&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>GIP taak 07</title>
-      <link>http://localhost:1313/Taak/HugoV1/</link>
+      <link>/Taak/HugoV1/</link>
       <pubDate>Thu, 22 Oct 2015 16:38:15 +0200</pubDate>
       
-      <guid>http://localhost:1313/Taak/HugoV1/</guid>
+      <guid>/Taak/HugoV1/</guid>
       <description>
 
 &lt;h1 id=&#34;links:0615d6a25bebe7b12f9e076bad2e2a46&#34;&gt;Links&lt;/h1&gt;
 
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://gitlab.com/bert-gysen/Hugo.git&#34;&gt;Gitlab&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/Bert-Gysen/bert-gysen.github.io&#34;&gt;Github&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://bert-gysen.github.io/&#34;&gt;Github pages&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/Bert-Gysen/localhost:1313&#34;&gt;Github&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://localhost:1313/&#34;&gt;Github pages&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;h1 id=&#34;vergelijking-hugo-en-wordpress:0615d6a25bebe7b12f9e076bad2e2a46&#34;&gt;Vergelijking Hugo en Wordpress&lt;/h1&gt;
@@ -65,34 +123,30 @@
     
     <item>
       <title>IT-tapa instructie video</title>
-      <link>http://localhost:1313/Taak/InstructionVidEnglish/</link>
+      <link>/Taak/InstructionVidEnglish/</link>
       <pubDate>Thu, 15 Oct 2015 00:14:46 +0200</pubDate>
       
-      <guid>http://localhost:1313/Taak/InstructionVidEnglish/</guid>
+      <guid>/Taak/InstructionVidEnglish/</guid>
       <description>
 
 &lt;h3 id=&#34;trello-tutorials:5d7ee15a3e86b02505ae15f9d053a490&#34;&gt;Trello Tutorials&lt;/h3&gt;
 
 &lt;ul&gt;
 &lt;li&gt;&lt;p&gt;Nederlands filmpje: &lt;br&gt;
-&lt;video width=&#34;320&#34; height=&#34;240&#34; controls&gt;
-&lt;source src=&#34;Trello Instructie (nederlands).mp4&#34; type=&#34;video/mp4&#34;&gt;
-&lt;/video&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;iframe width=&#34;75%&#34; height=&#34;330&#34; src=&#34;http://www.youtube.com/embed/vtrBZNaJU_c&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;&lt;/p&gt;&lt;/li&gt;
 
 &lt;li&gt;&lt;p&gt;Engels filmpje: &lt;br&gt;
-&lt;video width=&#34;320&#34; height=&#34;240&#34; controls&gt;
-&lt;source src=&#34;Trello instructie (engels).mp4&#34; type=&#34;video/mp4&#34;&gt;
-&lt;/video&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;iframe width=&#34;75%&#34; height=&#34;330&#34; src=&#34;http://www.youtube.com/embed/cej_UYiT3Mk&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/p&gt;&lt;/li&gt;
 &lt;/ul&gt;
 </description>
     </item>
     
     <item>
       <title>IT-autobiography</title>
-      <link>http://localhost:1313/Taak/IT-autobiography/</link>
+      <link>/Taak/IT-autobiography/</link>
       <pubDate>Thu, 15 Oct 2015 00:12:25 +0200</pubDate>
       
-      <guid>http://localhost:1313/Taak/IT-autobiography/</guid>
+      <guid>/Taak/IT-autobiography/</guid>
       <description>
 
 &lt;h3 id=&#34;how-it-became-a-part-of-my-life:b8ba8b1fcf0c24f1bbf715390a897859&#34;&gt;How IT became a part of my life&lt;/h3&gt;
@@ -107,21 +161,91 @@
 
 &lt;p&gt;I can’t even imagine what I would do if I didn’t have my computer. I use it for school, talking to friends, looking things up, playing videogames and much more. I can say IT has become an important part of my life because I just can’t live without it. It’s an ever-growing, fascinating world that I want to keep exploring!&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&#34;Bgysen.png&#34;&gt;&lt;/img&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;../../Bgysen.png&#34; alt=&#34;&#34;&gt;&lt;/img&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Analyseren, ontwerpen en implementeren van een applicatie met een database</title>
+      <link>/Taak/DatabasesImplementatie/</link>
+      <pubDate>Thu, 15 Oct 2015 00:09:43 +0200</pubDate>
+      
+      <guid>/Taak/DatabasesImplementatie/</guid>
+      <description>
+
+&lt;p&gt;&lt;img src=&#34;../../DatabasesConcept.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+
+&lt;h3 id=&#34;sql-code:ca303766d915fb934931a6dfb4cb8ad9&#34;&gt;SQL-code&lt;/h3&gt;
+
+&lt;pre&gt;&lt;code&gt;
+CREATE SCHEMA `gip_taak_08_GysenBert` ;
+use gip_taak_08_GysenBert;
+
+CREATE TABLE `gip_taak_08_GysenBert`.`Users` (
+  `Id` int not null auto_increment primary key,
+  `Naam` VARCHAR(45) NULL,
+  `Wachtwoord` VARCHAR(45) NULL);
+  
+insert into Users(Id, Naam, Wachtwoord)
+values 
+(1, &amp;quot;Bert&amp;quot;, &amp;quot;Test123&amp;quot;),
+(2, &amp;quot;Jos&amp;quot;, &amp;quot;Azerty123&amp;quot;);
+
+create table `gip_taak_08_GysenBert`.`Posts` (
+    Id int not null auto_increment primary key,
+    User_id int not null,
+    Inhoud text,
+    Tijdstip datetime
+);
+
+insert into Posts(Id, User_id, Inhoud, Tijdstip)
+values
+(1, 1, &amp;quot;Hallo allemaal mijn naam is Bert.&amp;quot;, &amp;quot;2016-04-18 09:16:55&amp;quot;),
+(2, 1, &amp;quot;Ik ben nieuw hier!&amp;quot;, &amp;quot;2016-04-18 09:27:24&amp;quot;),
+(3, 2, &amp;quot;Ik ben benieuwd wat ik hier allemaal ga kunnen doen.&amp;quot;, &amp;quot;2016-04-19 17:28:12&amp;quot;);
+
+create table `gip_taak_08_GysenBert`.`Comments` (
+    Id int not null auto_increment primary key,
+    Post_id int not null,
+    User_id int not null,
+    Inhoud text,
+    Tijdstip datetime
+);
+
+insert into Comments(Id, Post_id, User_id, Inhoud, Tijdstip)
+values
+(1, 2, 2, &amp;quot;Hey, ik ben ook nieuw hier. Mijn naam is Jos.&amp;quot;, &amp;quot;2016-04-18 09:28:21&amp;quot;),
+(2, 2, 1, &amp;quot;Aangenaam! Mijn naam is Bert.&amp;quot;, &amp;quot;2016-04-18 09:30:37&amp;quot;),
+(3, 2, 2, &amp;quot;Ik vind dit al heel leuk tot nu toe!&amp;quot;, &amp;quot;2016-04-19 17:31:02&amp;quot;),
+(4, 2, 1, &amp;quot;Hahaha, ik ook wel.&amp;quot;, &amp;quot;2016-04-19 17:33:44&amp;quot;);
+
+/*toont alle user info*/
+Select * From Users;
+
+/*toont alle posts info*/
+Select  Posts.Id, Posts.Inhoud, Posts.Tijdstip, Users.Naam As User From Posts Join Users
+ON Posts.User_id = Users.Id;
+
+/*toont alle comments info*/
+Select Comments.Id, Comments.Inhoud, Comments.Tijdstip, Posts.Id As Post_Id, Users.Naam As User From Comments 
+Join Posts ON Comments.Post_id = Posts.Id
+Join Users On Comments.User_id = Users.Id;
+
+&lt;/code&gt;&lt;/pre&gt;
 </description>
     </item>
     
     <item>
       <title>Pour la FAQ au sujet de Trello, cliquez ICI.</title>
-      <link>http://localhost:1313/Taak/FransFAQ/</link>
+      <link>/Taak/FransFAQ/</link>
       <pubDate>Thu, 15 Oct 2015 00:09:43 +0200</pubDate>
       
-      <guid>http://localhost:1313/Taak/FransFAQ/</guid>
+      <guid>/Taak/FransFAQ/</guid>
       <description>
 
 &lt;h3 id=&#34;foire-aux-questions:c89b450aa3fe2985c639e84de68b30e9&#34;&gt;Foire Aux Questions&lt;/h3&gt;
 
-&lt;p&gt;Vous avez des questions sur Trello? Voici les réponses!&lt;/p&gt;
+&lt;p&gt;Vous avez des questions sur &lt;a href=&#34;https://trello.com/&#34;&gt;Trello&lt;/a&gt;? Voici les réponses!&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;On peut enlever un groupe?&lt;/strong&gt; &lt;br&gt;
 Pas encore.&lt;/p&gt;
@@ -145,19 +269,20 @@ Oui, Trello Business Class est une version de Trello avec plus d’options.&lt;/
     
     <item>
       <title>IT Tapa (sessies)</title>
-      <link>http://localhost:1313/Taak/IT-Tapa/</link>
+      <link>/Taak/IT-Tapa/</link>
       <pubDate>Thu, 15 Oct 2015 00:03:02 +0200</pubDate>
       
-      <guid>http://localhost:1313/Taak/IT-Tapa/</guid>
+      <guid>/Taak/IT-Tapa/</guid>
       <description>
 
 &lt;h3 id=&#34;it-tapa:49a870616e187054da8792404d941764&#34;&gt;IT-tapa&lt;/h3&gt;
 
-&lt;p&gt;Ik heb mijn IT-tapa presentatie samen met Joeri Sips gedaan. Wij hebben samen gekozen om &lt;a href=&#34;https://trello.com/&#34;&gt;Trello&lt;/a&gt; als ons onderwerp te nemen. Trello is een online tool om takenlijsten mee te maken. Wij zijn vorig jaar voor het eerst in contact gekomen met Trello en vonden het een handige tool om voor je zelf de takenlijst te maken die het best bij jou past.&lt;/p&gt;
+&lt;p&gt;Ik heb mijn IT-tapa presentatie samen met Joeri Sips gedaan. Wij hebben samen gekozen om &lt;a href=&#34;https://trello.com/&#34;&gt;Trello&lt;/a&gt; als ons onderwerp te nemen. Trello is een online tool om takenlijsten mee te maken. Wij zijn vorig jaar voor het eerst in contact gekomen met Trello en vonden het een handige tool om voor jezelf de takenlijst te maken die het best bij jou past.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://joeri-sips.github.io/&#34;&gt;Joeri&amp;rsquo;s Site&lt;/a&gt; &lt;br&gt;
 &lt;a href=&#34;https://www.facebook.com/IT-tapa-588405757863108/?fref=ts&#34;&gt;IT-tapa facebookpagina&lt;/a&gt; &lt;br&gt;
-&lt;img src=&#34;ITtapa1.jpg&#34;&gt;&lt;/img&gt;&lt;img src=&#34;ITtapa2.jpg&#34;&gt;&lt;/img&gt;&lt;/p&gt;
+&lt;img src=&#34;https://scontent-bru2-1.xx.fbcdn.net/hphotos-xpa1/t31.0-8/12238016_931268803576800_4718562916260969016_o.jpg&#34;&gt;&lt;/img&gt;
+&lt;img src=&#34;https://scontent-bru2-1.xx.fbcdn.net/hphotos-xpf1/t31.0-8/12248194_931268796910134_4580047370603038564_o.jpg&#34;&gt;&lt;/img&gt;&lt;/p&gt;
 </description>
     </item>
     

@@ -2,26 +2,76 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Stage on GIP Bert Gysen</title>
-    <link>http://localhost:1313/categories/stage/</link>
+    <link>/categories/stage/</link>
     <description>Recent content in Stage on GIP Bert Gysen</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 15 Oct 2015 00:17:29 +0200</lastBuildDate>
-    <atom:link href="http://localhost:1313/categories/stage/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 10 May 2016 00:17:29 +0200</lastBuildDate>
+    <atom:link href="/categories/stage/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>Bedrijfseconomische analyse van het stagebedrijf</title>
-      <link>http://localhost:1313/Stage/BedrStage/</link>
-      <pubDate>Thu, 15 Oct 2015 00:17:29 +0200</pubDate>
+      <title>Stageverslagen</title>
+      <link>/Stage/Stageverslagen/</link>
+      <pubDate>Tue, 10 May 2016 00:17:29 +0200</pubDate>
       
-      <guid>http://localhost:1313/Stage/BedrStage/</guid>
+      <guid>/Stage/Stageverslagen/</guid>
       <description>
 
-&lt;h3 id=&#34;wat-te-doen:58deddc6012bf601af6ac45bcf5b565d&#34;&gt;Wat te doen&lt;/h3&gt;
+&lt;h3 id=&#34;dag-1:269ae419ea9f3e340d0deb3d4219f7cf&#34;&gt;Dag 1&lt;/h3&gt;
 
-&lt;ul&gt;
-&lt;li&gt;Stage analyseren&lt;/li&gt;
-&lt;/ul&gt;
+&lt;p&gt;Eerst heb ik een rondleiding van mijn stagementor gekregen en stelde hij me aan iedereen voor. Daarna zijn we naar de kelder gegaan en heeft hij een korte uitleg over de servers gegeven. Ik kreeg en laptop die aangesloten werd op een monitor en toetsenbord om mee te werken. Daarmee heb ik hun netwerkstructuur in Visio getekend.&lt;/p&gt;
+
+&lt;h3 id=&#34;dag-2:269ae419ea9f3e340d0deb3d4219f7cf&#34;&gt;Dag 2&lt;/h3&gt;
+
+&lt;p&gt;Toen ik aankwam heb ik mij meteen achter mijn pc gezet en begon ik verder te werken aan de netwerkstructuur. In de loop van de dag ben ik bij mijn stagementor langs gegaan en heb ik al wat vragen van mijn GIP taak van bedrijfsbeheer kunnen oplossen. Daarna zijn we naar de verantwoordelijke voor de Financiële afdeling gegaan en heb ik een offerte en aankoopfactuur gekregen. Op het einde van de dag heb ik nog wat vragen gesteld in verband met hun netwerktool.&lt;/p&gt;
+
+&lt;h3 id=&#34;dag-3:269ae419ea9f3e340d0deb3d4219f7cf&#34;&gt;Dag 3&lt;/h3&gt;
+
+&lt;p&gt;Op de derde dag ben ik weer meteen aan de pc gaan zitten en ben verder gegaan met Visio. We zijn nog eens naar de servers gegaan waar ik foto’s van heb getrokken zodat ik die IP’s zeker al had. Zo heb ik mijn netwerkstructuur nog meer in detail genomen. Op het einde hebben we weer even overlopen waar ik stond.&lt;/p&gt;
+
+&lt;h2 id=&#34;dag-4:269ae419ea9f3e340d0deb3d4219f7cf&#34;&gt;Dag 4&lt;/h2&gt;
+
+&lt;p&gt;Dag vier was bijna net hetzelfde als dag drie. Ik ben weer verdergegaan met Visio. IK heb de printers en kopieerapparaten in kaart gebracht. Ik heb ook hun tool waarmee ze hun virtuele servers beheren bekeken. Mijn stagementor en ik hebben ook even de software die het bedrijf gebruikt overlopen zoals KPD.&lt;/p&gt;
+
+&lt;h3 id=&#34;dag-5:269ae419ea9f3e340d0deb3d4219f7cf&#34;&gt;Dag 5&lt;/h3&gt;
+
+&lt;p&gt;Vandaag kwam de leverancier van Kaseya langs. Mijn stagementor vroeg of ik mee wou gaan luisteren en ik stemde in. Terwijl de leverancier ons de nieuwe opties van de tool liet zien viel de telenet lijn weg. De Belgacom lijn had normaal dan moeten overpakken maar dat deed hij niet, dus hebben we de telenet router helemaal ontkoppeld en toen werkte het wel. Daarna ben ik verdergegaan met Visio, ik ben toen begonnen met de softwarepaketten in kaart te brengen.&lt;/p&gt;
+
+&lt;h3 id=&#34;dag-6:269ae419ea9f3e340d0deb3d4219f7cf&#34;&gt;Dag 6&lt;/h3&gt;
+
+&lt;p&gt;Eerst en vooral had ik een licentieprobleem met visio, maar dat was snel opgelost. Daarna kon ik verdergaan met al de softwarepaketten in kaart te brengen. Ik ben in de namiddag begonnen met hun security systeem eens te bekijken. Ik heb dan gewerkt met hun programma waar ze de camera’s mee besturen en ook hun tool waarmee ze de badges van de medewerkers instellen.&lt;/p&gt;
+
+&lt;h3 id=&#34;dag-7:269ae419ea9f3e340d0deb3d4219f7cf&#34;&gt;Dag 7&lt;/h3&gt;
+
+&lt;p&gt;Vandaag zijn we naar REGA gegaan, het zusterbedrijf van DCA. Daar heb ik weer het netwerk bekeken. Het schema was best snel klaar omdat ik het al eens had gedaan bij DCA, dus ben ik verdergegaan met het domoticasysteem daar. Ik heb gezien hoe ze met Ipads het licht en de radio konden bedienen en heb geholpen met de nieuwe pc van de projectleider te plaatsen.&lt;/p&gt;
+
+&lt;h3 id=&#34;dag-8:269ae419ea9f3e340d0deb3d4219f7cf&#34;&gt;Dag 8&lt;/h3&gt;
+
+&lt;p&gt;Ik had erg veel zin in deze dag, vooral omdat ik vandaag eindelijk tegenover mijn stagementor kon gaan zitten. Ik heb mijn netwerkschema dan ook helemaal kunnen afwerken omdat ik constant vragen kon stellen. Daarna heb ik wat geholpen met hun nieuwe office 365 licentie op hun clients te zetten en hebbben we een nieuwe printer geïnstalleerd.&lt;/p&gt;
+
+&lt;h3 id=&#34;dag-9:269ae419ea9f3e340d0deb3d4219f7cf&#34;&gt;Dag 9&lt;/h3&gt;
+
+&lt;p&gt;Vandaag kon ik weer tegenover mij stagementor zitten. Ik heb me vandaag vooral beziggehouden met Kaseya, hun netwerktool, omdat ik daar mijn casestudy over doe. Ik heb heel hun tool onderzocht en heb erg veel vragen kunnen stellen. Daarna heb ik meegeholpen aan een script voor een standaardprinter in te stellen. Ook heb ik me beziggehouden met foto’s te nemen zoals bijvoorbeeld in het serverlokaal.&lt;/p&gt;
+
+&lt;h3 id=&#34;dag-10:269ae419ea9f3e340d0deb3d4219f7cf&#34;&gt;Dag 10&lt;/h3&gt;
+
+&lt;p&gt;De laatste dag heb ik samen met mijn mentor mijn volledige bundel van hun netwerk overlopen en nog wat aanpassingen gemaakt. Daarna kreeg ik de opdracht om oude laptops te testen en de harde schijf er uit te halen als ze niet meer werkten.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Huisstijl</title>
+      <link>/Stage/Huisstijl/</link>
+      <pubDate>Tue, 10 May 2016 00:09:43 +0200</pubDate>
+      
+      <guid>/Stage/Huisstijl/</guid>
+      <description>
+
+&lt;h3 id=&#34;huisstijl-dca:c26402fcb5c873e041a3fc3cfadcc12d&#34;&gt;Huisstijl DCA&lt;/h3&gt;
+
+&lt;p&gt;Het logo van DCA bestaat uit twee vierkanten die samenhangen door een plusteken. Op het ene vierkant staat ‘DCA’ en op het andere ‘Meer dan bouwen’. Op een verkoopfactuur staat in de linkerbovenhoek ook een logo. Dit keer is het alleen ‘DCA’ met een liggende streep langs beide kanten. Ze hebben ook een e-mailhandtekening, dit houdt in dat het logo onder elke e-mail die naar buitenaf verstuurd wordt geplaatst wordt.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;../../DCALogo.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
 </description>
     </item>
     

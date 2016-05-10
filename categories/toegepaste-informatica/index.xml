@@ -2,27 +2,27 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Toegepaste Informatica on GIP Bert Gysen</title>
-    <link>http://localhost:1313/categories/toegepaste-informatica/</link>
+    <link>/categories/toegepaste-informatica/</link>
     <description>Recent content in Toegepaste Informatica on GIP Bert Gysen</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 22 Oct 2015 16:38:15 +0200</lastBuildDate>
-    <atom:link href="http://localhost:1313/categories/toegepaste-informatica/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="/categories/toegepaste-informatica/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>GIP taak 07</title>
-      <link>http://localhost:1313/Taak/HugoV1/</link>
+      <link>/Taak/HugoV1/</link>
       <pubDate>Thu, 22 Oct 2015 16:38:15 +0200</pubDate>
       
-      <guid>http://localhost:1313/Taak/HugoV1/</guid>
+      <guid>/Taak/HugoV1/</guid>
       <description>
 
 &lt;h1 id=&#34;links:0615d6a25bebe7b12f9e076bad2e2a46&#34;&gt;Links&lt;/h1&gt;
 
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://gitlab.com/bert-gysen/Hugo.git&#34;&gt;Gitlab&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/Bert-Gysen/bert-gysen.github.io&#34;&gt;Github&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://bert-gysen.github.io/&#34;&gt;Github pages&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/Bert-Gysen/localhost:1313&#34;&gt;Github&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://localhost:1313/&#34;&gt;Github pages&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;h1 id=&#34;vergelijking-hugo-en-wordpress:0615d6a25bebe7b12f9e076bad2e2a46&#34;&gt;Vergelijking Hugo en Wordpress&lt;/h1&gt;
@@ -60,6 +60,76 @@
 &lt;h3 id=&#34;static-map:0615d6a25bebe7b12f9e076bad2e2a46&#34;&gt;Static map&lt;/h3&gt;
 
 &lt;p&gt;In mijn static map zitten mijn css-bestanden. Ik heb hier de achtergronden voor mijn sidebar, index en posts aangepast. Ik heb ook een nieuw favicon dat een letter &amp;lsquo;B&amp;rsquo; is.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Analyseren, ontwerpen en implementeren van een applicatie met een database</title>
+      <link>/Taak/DatabasesImplementatie/</link>
+      <pubDate>Thu, 15 Oct 2015 00:09:43 +0200</pubDate>
+      
+      <guid>/Taak/DatabasesImplementatie/</guid>
+      <description>
+
+&lt;p&gt;&lt;img src=&#34;../../DatabasesConcept.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+
+&lt;h3 id=&#34;sql-code:ca303766d915fb934931a6dfb4cb8ad9&#34;&gt;SQL-code&lt;/h3&gt;
+
+&lt;pre&gt;&lt;code&gt;
+CREATE SCHEMA `gip_taak_08_GysenBert` ;
+use gip_taak_08_GysenBert;
+
+CREATE TABLE `gip_taak_08_GysenBert`.`Users` (
+  `Id` int not null auto_increment primary key,
+  `Naam` VARCHAR(45) NULL,
+  `Wachtwoord` VARCHAR(45) NULL);
+  
+insert into Users(Id, Naam, Wachtwoord)
+values 
+(1, &amp;quot;Bert&amp;quot;, &amp;quot;Test123&amp;quot;),
+(2, &amp;quot;Jos&amp;quot;, &amp;quot;Azerty123&amp;quot;);
+
+create table `gip_taak_08_GysenBert`.`Posts` (
+    Id int not null auto_increment primary key,
+    User_id int not null,
+    Inhoud text,
+    Tijdstip datetime
+);
+
+insert into Posts(Id, User_id, Inhoud, Tijdstip)
+values
+(1, 1, &amp;quot;Hallo allemaal mijn naam is Bert.&amp;quot;, &amp;quot;2016-04-18 09:16:55&amp;quot;),
+(2, 1, &amp;quot;Ik ben nieuw hier!&amp;quot;, &amp;quot;2016-04-18 09:27:24&amp;quot;),
+(3, 2, &amp;quot;Ik ben benieuwd wat ik hier allemaal ga kunnen doen.&amp;quot;, &amp;quot;2016-04-19 17:28:12&amp;quot;);
+
+create table `gip_taak_08_GysenBert`.`Comments` (
+    Id int not null auto_increment primary key,
+    Post_id int not null,
+    User_id int not null,
+    Inhoud text,
+    Tijdstip datetime
+);
+
+insert into Comments(Id, Post_id, User_id, Inhoud, Tijdstip)
+values
+(1, 2, 2, &amp;quot;Hey, ik ben ook nieuw hier. Mijn naam is Jos.&amp;quot;, &amp;quot;2016-04-18 09:28:21&amp;quot;),
+(2, 2, 1, &amp;quot;Aangenaam! Mijn naam is Bert.&amp;quot;, &amp;quot;2016-04-18 09:30:37&amp;quot;),
+(3, 2, 2, &amp;quot;Ik vind dit al heel leuk tot nu toe!&amp;quot;, &amp;quot;2016-04-19 17:31:02&amp;quot;),
+(4, 2, 1, &amp;quot;Hahaha, ik ook wel.&amp;quot;, &amp;quot;2016-04-19 17:33:44&amp;quot;);
+
+/*toont alle user info*/
+Select * From Users;
+
+/*toont alle posts info*/
+Select  Posts.Id, Posts.Inhoud, Posts.Tijdstip, Users.Naam As User From Posts Join Users
+ON Posts.User_id = Users.Id;
+
+/*toont alle comments info*/
+Select Comments.Id, Comments.Inhoud, Comments.Tijdstip, Posts.Id As Post_Id, Users.Naam As User From Comments 
+Join Posts ON Comments.Post_id = Posts.Id
+Join Users On Comments.User_id = Users.Id;
+
+&lt;/code&gt;&lt;/pre&gt;
 </description>
     </item>
     

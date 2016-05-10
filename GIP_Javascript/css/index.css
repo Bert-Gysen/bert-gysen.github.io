@@ -1,0 +1,136 @@
+
+header
+{
+	background-image: url("../images/header.png");
+	background-size: contain;
+	width: 100%;
+	height: 8vw;
+}
+
+h1
+{
+	text-align: center;
+	text-decoration: underline;
+	font-size: 2.5rem;
+	color: #596d2c;
+}
+
+main
+{
+	margin: 20px;
+	border: groove aqua 5px;
+}
+
+#ketelDiv
+{
+	background-image: url("../images/ketel.png");
+	background-size: contain;
+	height: 15vw;
+	width: 15vw;
+	bottom: 0;
+	margin-left: auto;
+	margin-right: auto;
+	left: 0;
+	right: 0;
+	position: absolute;
+}
+
+#ketelDiv:hover
+{
+	cursor: pointer;
+}
+
+.Menu
+{
+	border: groove #596d2c 4px;
+	border-radius: 3px;
+	text-align: center; 
+}
+
+.Menu > img:hover
+{
+	cursor: pointer;
+	border: outset 3px #a6a6a6
+}
+
+.Menu > img
+{
+	box-sizing: border-box;
+	margin: 2vw;
+	display: block;
+	height: 10vw;
+	width: 10vw;
+}
+#LinkerMenu
+{
+	margin-left: 15%;
+	float: left;
+}
+
+#RechterMenu
+{
+	margin-right: 15%;
+	float: right;
+}
+
+#gooiItem
+{
+	position: absolute;
+	margin-left: auto;
+	margin-right: auto;
+	left: 0;
+	right: 0;
+	width: 6vw;
+	height: 6vw
+}
+#youtubeVideo
+{
+	margin-left: auto;
+	margin-right: auto;
+	left: 0;
+	right: 0;
+	position: absolute;
+	text-align: center;
+}
+button
+{
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 5px;
+	left: 0;
+	right: 0;
+	position: absolute;
+}
+
+iframe
+{
+	width: 30vw;
+}
+
+#geenReactieImg
+{
+	margin-left: auto;
+	margin-right: auto;
+	left: 0;
+	right: 0;
+	position: absolute;
+	max-width: 20vw;
+	max-height: 20vw;
+}
+footer
+{
+	position:absolute;
+   bottom:0;
+   width:80%;
+}
+a > img
+{
+	width: 2vw;
+	height: 2vw;
+	box-sizing: border-box;
+}
+a > img:hover
+{
+	cursor: pointer;
+	border: outset 3px #a6a6a6
+}

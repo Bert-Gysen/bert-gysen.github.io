@@ -57,7 +57,7 @@ html {
   text-align: center;
   padding: 2rem 1rem;
   color: rgba(255,255,255,.5);
-  background-image: url("http://wallpapers.windowsace.com/pics/g/r/gradient-background-wallpaper-u-.-ibackgroundz.com.jpg")
+  background-image: url("../../sidebar.png")
 }
 @media (min-width: 48em) {
   .sidebar {

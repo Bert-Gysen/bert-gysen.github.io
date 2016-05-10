@@ -2,52 +2,71 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Systeembeheer on GIP Bert Gysen</title>
-    <link>http://localhost:1313/categories/systeembeheer/</link>
+    <link>/categories/systeembeheer/</link>
     <description>Recent content in Systeembeheer on GIP Bert Gysen</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 15 Oct 2015 00:14:46 +0200</lastBuildDate>
-    <atom:link href="http://localhost:1313/categories/systeembeheer/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 10 Apr 2016 00:12:25 +0200</lastBuildDate>
+    <atom:link href="/categories/systeembeheer/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Case Study</title>
+      <link>/Taak/CaseStudy/</link>
+      <pubDate>Sun, 10 Apr 2016 00:12:25 +0200</pubDate>
+      
+      <guid>/Taak/CaseStudy/</guid>
+      <description>
+
+&lt;h3 id=&#34;kaseya:012002a4ccf4c08711ada36cec8a571e&#34;&gt;Kaseya&lt;/h3&gt;
+
+&lt;p&gt;Kaseya is een netwerktool gebruikt door netwerkbeheerders om hun leven iets makkelijker en eenvoudiger te maken. De tool bevat allerlei functies zoals remote control, monitoring, dashboards, patch management, enzovoort.&lt;/p&gt;
+
+&lt;p&gt;Ikzelf vond kaseya in het begin best moeilijk te gebruiken. Ik werd overweldigd door alle opties die je had, maar als je de basis hebt is het een zeer nuttige tool!&lt;/p&gt;
+
+&lt;p&gt;Ik heb veel moeite gehad in het begin maar uiteindelijk was ik er wel mee weg. De tool heeft veel potentieel maar is nog niet echt af, er is een optie om alle apparaten in het netwerk te tonen maar ze worden niet allemaal gevonden. De tool ziet firewalls bijvoorbeeld aan als gateways dus die worden niet getoond.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;../../Kaseya1.png&#34; alt=&#34;&#34;&gt;&lt;/img&gt;
+&lt;img src=&#34;../../Kaseya2.png&#34; alt=&#34;&#34;&gt;&lt;/img&gt;
+&lt;img src=&#34;../../Kaseya3.png&#34; alt=&#34;&#34;&gt;&lt;/img&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>IT-tapa instructie video</title>
-      <link>http://localhost:1313/Taak/InstructionVidEnglish/</link>
+      <link>/Taak/InstructionVidEnglish/</link>
       <pubDate>Thu, 15 Oct 2015 00:14:46 +0200</pubDate>
       
-      <guid>http://localhost:1313/Taak/InstructionVidEnglish/</guid>
+      <guid>/Taak/InstructionVidEnglish/</guid>
       <description>
 
 &lt;h3 id=&#34;trello-tutorials:5d7ee15a3e86b02505ae15f9d053a490&#34;&gt;Trello Tutorials&lt;/h3&gt;
 
 &lt;ul&gt;
 &lt;li&gt;&lt;p&gt;Nederlands filmpje: &lt;br&gt;
-&lt;video width=&#34;320&#34; height=&#34;240&#34; controls&gt;
-&lt;source src=&#34;Trello Instructie (nederlands).mp4&#34; type=&#34;video/mp4&#34;&gt;
-&lt;/video&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;iframe width=&#34;75%&#34; height=&#34;330&#34; src=&#34;http://www.youtube.com/embed/vtrBZNaJU_c&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;&lt;/p&gt;&lt;/li&gt;
 
 &lt;li&gt;&lt;p&gt;Engels filmpje: &lt;br&gt;
-&lt;video width=&#34;320&#34; height=&#34;240&#34; controls&gt;
-&lt;source src=&#34;Trello instructie (engels).mp4&#34; type=&#34;video/mp4&#34;&gt;
-&lt;/video&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;iframe width=&#34;75%&#34; height=&#34;330&#34; src=&#34;http://www.youtube.com/embed/cej_UYiT3Mk&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/p&gt;&lt;/li&gt;
 &lt;/ul&gt;
 </description>
     </item>
     
     <item>
       <title>IT Tapa (sessies)</title>
-      <link>http://localhost:1313/Taak/IT-Tapa/</link>
+      <link>/Taak/IT-Tapa/</link>
       <pubDate>Thu, 15 Oct 2015 00:03:02 +0200</pubDate>
       
-      <guid>http://localhost:1313/Taak/IT-Tapa/</guid>
+      <guid>/Taak/IT-Tapa/</guid>
       <description>
 
 &lt;h3 id=&#34;it-tapa:49a870616e187054da8792404d941764&#34;&gt;IT-tapa&lt;/h3&gt;
 
-&lt;p&gt;Ik heb mijn IT-tapa presentatie samen met Joeri Sips gedaan. Wij hebben samen gekozen om &lt;a href=&#34;https://trello.com/&#34;&gt;Trello&lt;/a&gt; als ons onderwerp te nemen. Trello is een online tool om takenlijsten mee te maken. Wij zijn vorig jaar voor het eerst in contact gekomen met Trello en vonden het een handige tool om voor je zelf de takenlijst te maken die het best bij jou past.&lt;/p&gt;
+&lt;p&gt;Ik heb mijn IT-tapa presentatie samen met Joeri Sips gedaan. Wij hebben samen gekozen om &lt;a href=&#34;https://trello.com/&#34;&gt;Trello&lt;/a&gt; als ons onderwerp te nemen. Trello is een online tool om takenlijsten mee te maken. Wij zijn vorig jaar voor het eerst in contact gekomen met Trello en vonden het een handige tool om voor jezelf de takenlijst te maken die het best bij jou past.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://joeri-sips.github.io/&#34;&gt;Joeri&amp;rsquo;s Site&lt;/a&gt; &lt;br&gt;
 &lt;a href=&#34;https://www.facebook.com/IT-tapa-588405757863108/?fref=ts&#34;&gt;IT-tapa facebookpagina&lt;/a&gt; &lt;br&gt;
-&lt;img src=&#34;ITtapa1.jpg&#34;&gt;&lt;/img&gt;&lt;img src=&#34;ITtapa2.jpg&#34;&gt;&lt;/img&gt;&lt;/p&gt;
+&lt;img src=&#34;https://scontent-bru2-1.xx.fbcdn.net/hphotos-xpa1/t31.0-8/12238016_931268803576800_4718562916260969016_o.jpg&#34;&gt;&lt;/img&gt;
+&lt;img src=&#34;https://scontent-bru2-1.xx.fbcdn.net/hphotos-xpf1/t31.0-8/12248194_931268796910134_4580047370603038564_o.jpg&#34;&gt;&lt;/img&gt;&lt;/p&gt;
 </description>
     </item>
     
