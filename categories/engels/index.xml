@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Engels on GIP Bert Gysen</title>
-    <link>/categories/engels/</link>
+    <link>http://localhost:1313/categories/engels/</link>
     <description>Recent content in Engels on GIP Bert Gysen</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 10 May 2016 00:12:25 +0200</lastBuildDate>
-    <atom:link href="/categories/engels/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/categories/engels/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Review of software Kaseya</title>
-      <link>/Taak/IT-review/</link>
+      <link>http://localhost:1313/Taak/IT-review/</link>
       <pubDate>Tue, 10 May 2016 00:12:25 +0200</pubDate>
       
-      <guid>/Taak/IT-review/</guid>
+      <guid>http://localhost:1313/Taak/IT-review/</guid>
       <description>
 
 &lt;h3 id=&#34;kaseya-review:b2c60582955df1dde12efefda9c3a93d&#34;&gt;Kaseya review&lt;/h3&gt;
@@ -33,10 +33,10 @@
     
     <item>
       <title>IT-tapa instructie video</title>
-      <link>/Taak/InstructionVidEnglish/</link>
+      <link>http://localhost:1313/Taak/InstructionVidEnglish/</link>
       <pubDate>Thu, 15 Oct 2015 00:14:46 +0200</pubDate>
       
-      <guid>/Taak/InstructionVidEnglish/</guid>
+      <guid>http://localhost:1313/Taak/InstructionVidEnglish/</guid>
       <description>
 
 &lt;h3 id=&#34;trello-tutorials:5d7ee15a3e86b02505ae15f9d053a490&#34;&gt;Trello Tutorials&lt;/h3&gt;
@@ -53,10 +53,10 @@
     
     <item>
       <title>IT-autobiography</title>
-      <link>/Taak/IT-autobiography/</link>
+      <link>http://localhost:1313/Taak/IT-autobiography/</link>
       <pubDate>Thu, 15 Oct 2015 00:12:25 +0200</pubDate>
       
-      <guid>/Taak/IT-autobiography/</guid>
+      <guid>http://localhost:1313/Taak/IT-autobiography/</guid>
       <description>
 
 &lt;h3 id=&#34;how-it-became-a-part-of-my-life:b8ba8b1fcf0c24f1bbf715390a897859&#34;&gt;How IT became a part of my life&lt;/h3&gt;

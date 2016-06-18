@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Stages on GIP Bert Gysen</title>
-    <link>/stage/</link>
+    <link>http://localhost:1313/stage/</link>
     <description>Recent content in Stages on GIP Bert Gysen</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 10 May 2016 00:17:29 +0200</lastBuildDate>
-    <atom:link href="/stage/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/stage/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Stageverslagen</title>
-      <link>/Stage/Stageverslagen/</link>
+      <link>http://localhost:1313/Stage/Stageverslagen/</link>
       <pubDate>Tue, 10 May 2016 00:17:29 +0200</pubDate>
       
-      <guid>/Stage/Stageverslagen/</guid>
+      <guid>http://localhost:1313/Stage/Stageverslagen/</guid>
       <description>
 
 &lt;h3 id=&#34;dag-1:269ae419ea9f3e340d0deb3d4219f7cf&#34;&gt;Dag 1&lt;/h3&gt;
@@ -61,10 +61,10 @@
     
     <item>
       <title>Huisstijl</title>
-      <link>/Stage/Huisstijl/</link>
+      <link>http://localhost:1313/Stage/Huisstijl/</link>
       <pubDate>Tue, 10 May 2016 00:09:43 +0200</pubDate>
       
-      <guid>/Stage/Huisstijl/</guid>
+      <guid>http://localhost:1313/Stage/Huisstijl/</guid>
       <description>
 
 &lt;h3 id=&#34;huisstijl-dca:c26402fcb5c873e041a3fc3cfadcc12d&#34;&gt;Huisstijl DCA&lt;/h3&gt;

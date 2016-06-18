@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Toegepaste Informatica on GIP Bert Gysen</title>
-    <link>/categories/toegepaste-informatica/</link>
+    <link>http://localhost:1313/categories/toegepaste-informatica/</link>
     <description>Recent content in Toegepaste Informatica on GIP Bert Gysen</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 22 Oct 2015 16:38:15 +0200</lastBuildDate>
-    <atom:link href="/categories/toegepaste-informatica/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/categories/toegepaste-informatica/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>GIP taak 07</title>
-      <link>/Taak/HugoV1/</link>
+      <link>http://localhost:1313/Taak/HugoV1/</link>
       <pubDate>Thu, 22 Oct 2015 16:38:15 +0200</pubDate>
       
-      <guid>/Taak/HugoV1/</guid>
+      <guid>http://localhost:1313/Taak/HugoV1/</guid>
       <description>
 
 &lt;h1 id=&#34;links:0615d6a25bebe7b12f9e076bad2e2a46&#34;&gt;Links&lt;/h1&gt;
@@ -65,10 +65,10 @@
     
     <item>
       <title>Analyseren, ontwerpen en implementeren van een applicatie met een database</title>
-      <link>/Taak/DatabasesImplementatie/</link>
+      <link>http://localhost:1313/Taak/DatabasesImplementatie/</link>
       <pubDate>Thu, 15 Oct 2015 00:09:43 +0200</pubDate>
       
-      <guid>/Taak/DatabasesImplementatie/</guid>
+      <guid>http://localhost:1313/Taak/DatabasesImplementatie/</guid>
       <description>
 
 &lt;p&gt;&lt;img src=&#34;../../DatabasesConcept.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;

@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>GIP Bert Gysen</title>
-    <link>/</link>
+    <link>http://localhost:1313/</link>
     <description>Recent content on GIP Bert Gysen</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 10 May 2016 00:17:29 +0200</lastBuildDate>
-    <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Stageverslagen</title>
-      <link>/Stage/Stageverslagen/</link>
+      <link>http://localhost:1313/Stage/Stageverslagen/</link>
       <pubDate>Tue, 10 May 2016 00:17:29 +0200</pubDate>
       
-      <guid>/Stage/Stageverslagen/</guid>
+      <guid>http://localhost:1313/Stage/Stageverslagen/</guid>
       <description>
 
 &lt;h3 id=&#34;dag-1:269ae419ea9f3e340d0deb3d4219f7cf&#34;&gt;Dag 1&lt;/h3&gt;
@@ -61,10 +61,10 @@
     
     <item>
       <title>Review of software Kaseya</title>
-      <link>/Taak/IT-review/</link>
+      <link>http://localhost:1313/Taak/IT-review/</link>
       <pubDate>Tue, 10 May 2016 00:12:25 +0200</pubDate>
       
-      <guid>/Taak/IT-review/</guid>
+      <guid>http://localhost:1313/Taak/IT-review/</guid>
       <description>
 
 &lt;h3 id=&#34;kaseya-review:b2c60582955df1dde12efefda9c3a93d&#34;&gt;Kaseya review&lt;/h3&gt;
@@ -83,10 +83,10 @@
     
     <item>
       <title>Huisstijl</title>
-      <link>/Stage/Huisstijl/</link>
+      <link>http://localhost:1313/Stage/Huisstijl/</link>
       <pubDate>Tue, 10 May 2016 00:09:43 +0200</pubDate>
       
-      <guid>/Stage/Huisstijl/</guid>
+      <guid>http://localhost:1313/Stage/Huisstijl/</guid>
       <description>
 
 &lt;h3 id=&#34;huisstijl-dca:c26402fcb5c873e041a3fc3cfadcc12d&#34;&gt;Huisstijl DCA&lt;/h3&gt;
@@ -99,10 +99,10 @@
     
     <item>
       <title>Voici un reportage photo concernant le stage.</title>
-      <link>/Taak/ReportageFrans/</link>
+      <link>http://localhost:1313/Taak/ReportageFrans/</link>
       <pubDate>Tue, 10 May 2016 00:09:43 +0200</pubDate>
       
-      <guid>/Taak/ReportageFrans/</guid>
+      <guid>http://localhost:1313/Taak/ReportageFrans/</guid>
       <description>
 
 &lt;h3 id=&#34;reportage-de-mon-stage-à-dca:17d384b3464092965d9aaa807f1ab5bb&#34;&gt;Reportage de mon stage à DCA&lt;/h3&gt;
@@ -113,10 +113,10 @@
     
     <item>
       <title>Case Study</title>
-      <link>/Taak/CaseStudy/</link>
+      <link>http://localhost:1313/Taak/CaseStudy/</link>
       <pubDate>Sun, 10 Apr 2016 00:12:25 +0200</pubDate>
       
-      <guid>/Taak/CaseStudy/</guid>
+      <guid>http://localhost:1313/Taak/CaseStudy/</guid>
       <description>
 
 &lt;h3 id=&#34;kaseya:012002a4ccf4c08711ada36cec8a571e&#34;&gt;Kaseya&lt;/h3&gt;
@@ -135,10 +135,10 @@
     
     <item>
       <title>GIP taak 07</title>
-      <link>/Taak/HugoV1/</link>
+      <link>http://localhost:1313/Taak/HugoV1/</link>
       <pubDate>Thu, 22 Oct 2015 16:38:15 +0200</pubDate>
       
-      <guid>/Taak/HugoV1/</guid>
+      <guid>http://localhost:1313/Taak/HugoV1/</guid>
       <description>
 
 &lt;h1 id=&#34;links:0615d6a25bebe7b12f9e076bad2e2a46&#34;&gt;Links&lt;/h1&gt;
@@ -189,10 +189,10 @@
     
     <item>
       <title>IT-tapa instructie video</title>
-      <link>/Taak/InstructionVidEnglish/</link>
+      <link>http://localhost:1313/Taak/InstructionVidEnglish/</link>
       <pubDate>Thu, 15 Oct 2015 00:14:46 +0200</pubDate>
       
-      <guid>/Taak/InstructionVidEnglish/</guid>
+      <guid>http://localhost:1313/Taak/InstructionVidEnglish/</guid>
       <description>
 
 &lt;h3 id=&#34;trello-tutorials:5d7ee15a3e86b02505ae15f9d053a490&#34;&gt;Trello Tutorials&lt;/h3&gt;
@@ -209,10 +209,10 @@
     
     <item>
       <title>IT-autobiography</title>
-      <link>/Taak/IT-autobiography/</link>
+      <link>http://localhost:1313/Taak/IT-autobiography/</link>
       <pubDate>Thu, 15 Oct 2015 00:12:25 +0200</pubDate>
       
-      <guid>/Taak/IT-autobiography/</guid>
+      <guid>http://localhost:1313/Taak/IT-autobiography/</guid>
       <description>
 
 &lt;h3 id=&#34;how-it-became-a-part-of-my-life:b8ba8b1fcf0c24f1bbf715390a897859&#34;&gt;How IT became a part of my life&lt;/h3&gt;
@@ -233,10 +233,10 @@
     
     <item>
       <title>Pour la FAQ au sujet de Trello, cliquez ICI.</title>
-      <link>/Taak/FransFAQ/</link>
+      <link>http://localhost:1313/Taak/FransFAQ/</link>
       <pubDate>Thu, 15 Oct 2015 00:09:43 +0200</pubDate>
       
-      <guid>/Taak/FransFAQ/</guid>
+      <guid>http://localhost:1313/Taak/FransFAQ/</guid>
       <description>
 
 &lt;h3 id=&#34;foire-aux-questions:c89b450aa3fe2985c639e84de68b30e9&#34;&gt;Foire Aux Questions&lt;/h3&gt;
@@ -265,10 +265,10 @@ Oui, Trello Business Class est une version de Trello avec plus d’options.&lt;/
     
     <item>
       <title>Analyseren, ontwerpen en implementeren van een applicatie met een database</title>
-      <link>/Taak/DatabasesImplementatie/</link>
+      <link>http://localhost:1313/Taak/DatabasesImplementatie/</link>
       <pubDate>Thu, 15 Oct 2015 00:09:43 +0200</pubDate>
       
-      <guid>/Taak/DatabasesImplementatie/</guid>
+      <guid>http://localhost:1313/Taak/DatabasesImplementatie/</guid>
       <description>
 
 &lt;p&gt;&lt;img src=&#34;../../DatabasesConcept.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
@@ -335,10 +335,10 @@ Join Users On Comments.User_id = Users.Id;
     
     <item>
       <title>IT Tapa (sessies)</title>
-      <link>/Taak/IT-Tapa/</link>
+      <link>http://localhost:1313/Taak/IT-Tapa/</link>
       <pubDate>Thu, 15 Oct 2015 00:03:02 +0200</pubDate>
       
-      <guid>/Taak/IT-Tapa/</guid>
+      <guid>http://localhost:1313/Taak/IT-Tapa/</guid>
       <description>
 
 &lt;h3 id=&#34;it-tapa:49a870616e187054da8792404d941764&#34;&gt;IT-tapa&lt;/h3&gt;

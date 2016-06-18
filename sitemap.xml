@@ -2,63 +2,63 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>/</loc>
+    <loc>http://localhost:1313/</loc>
     <lastmod>2016-05-10T00:17:29+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/Stage/Stageverslagen/</loc>
+    <loc>http://localhost:1313/Stage/Stageverslagen/</loc>
     <lastmod>2016-05-10T00:17:29+02:00</lastmod>
   </url>
   
   <url>
-    <loc>/Taak/IT-review/</loc>
+    <loc>http://localhost:1313/Taak/IT-review/</loc>
     <lastmod>2016-05-10T00:12:25+02:00</lastmod>
   </url>
   
   <url>
-    <loc>/Stage/Huisstijl/</loc>
+    <loc>http://localhost:1313/Stage/Huisstijl/</loc>
     <lastmod>2016-05-10T00:09:43+02:00</lastmod>
   </url>
   
   <url>
-    <loc>/Taak/ReportageFrans/</loc>
+    <loc>http://localhost:1313/Taak/ReportageFrans/</loc>
     <lastmod>2016-05-10T00:09:43+02:00</lastmod>
   </url>
   
   <url>
-    <loc>/Taak/CaseStudy/</loc>
+    <loc>http://localhost:1313/Taak/CaseStudy/</loc>
     <lastmod>2016-04-10T00:12:25+02:00</lastmod>
   </url>
   
   <url>
-    <loc>/Taak/HugoV1/</loc>
+    <loc>http://localhost:1313/Taak/HugoV1/</loc>
     <lastmod>2015-10-22T16:38:15+02:00</lastmod>
   </url>
   
   <url>
-    <loc>/Taak/InstructionVidEnglish/</loc>
+    <loc>http://localhost:1313/Taak/InstructionVidEnglish/</loc>
     <lastmod>2015-10-15T00:14:46+02:00</lastmod>
   </url>
   
   <url>
-    <loc>/Taak/IT-autobiography/</loc>
+    <loc>http://localhost:1313/Taak/IT-autobiography/</loc>
     <lastmod>2015-10-15T00:12:25+02:00</lastmod>
   </url>
   
   <url>
-    <loc>/Taak/FransFAQ/</loc>
+    <loc>http://localhost:1313/Taak/FransFAQ/</loc>
     <lastmod>2015-10-15T00:09:43+02:00</lastmod>
   </url>
   
   <url>
-    <loc>/Taak/DatabasesImplementatie/</loc>
+    <loc>http://localhost:1313/Taak/DatabasesImplementatie/</loc>
     <lastmod>2015-10-15T00:09:43+02:00</lastmod>
   </url>
   
   <url>
-    <loc>/Taak/IT-Tapa/</loc>
+    <loc>http://localhost:1313/Taak/IT-Tapa/</loc>
     <lastmod>2015-10-15T00:03:02+02:00</lastmod>
   </url>
   
